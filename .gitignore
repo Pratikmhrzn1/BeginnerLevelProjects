@@ -7,7 +7,6 @@
 
 # Node modules
 node_modules/
-frontend/
 # Build files
 dist/
 build/
